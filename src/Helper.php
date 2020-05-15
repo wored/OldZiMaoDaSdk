@@ -1,6 +1,6 @@
 <?php
 
-namespace Wored\ZiMaoDaSdk;
+namespace Wored\OldZiMaoDaSdk;
 
 
 class Helper
