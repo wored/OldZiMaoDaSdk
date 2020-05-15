@@ -1,0 +1,19 @@
+{
+    "name": "wored/oldzimaoda-sdk",
+    "description": "老接口自贸达订单报关推送接口",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qiliu",
+            "email": "qiliuf@gmail.com"
+        }
+    ],
+    "require": {
+        "hanson/foundation-sdk": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wored\\ZiMaoDaSdk\\": "src"
+        }
+    }
+}
